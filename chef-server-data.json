@@ -1,0 +1,339 @@
+[
+    {
+        "id": "chef_1a2b3c",
+        "chef_name": "Sanjeev Kapoor",
+        "chef_image": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen_23-2149646278.jpg?size=626&ext=jpg&ga=GA1.2.857259792.1672064733&semt=ais",
+        "experience": 8,
+        "likes": "5M",
+        "chef_description": "Sanjeev Kapoor is a renowned Indian chef and television personality. He has been awarded the Padma Shri and the Padma Bhushan, two of India's highest civilian awards, for his contribution to Indian cuisine.",
+        "recipes": [
+            {
+                "_id": "recipe_1a",
+                "name": "Butter Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Butter",
+                    "Tomatoes",
+                    "Cream",
+                    "Spices"
+                ],
+                "description": "A delicious Indian dish made with marinated chicken cooked in a rich tomato and cream sauce, spiced with a blend of aromatic spices.",
+                "image": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate chicken in yogurt and spices. \n2. Cook marinated chicken in a tandoor oven or grill until partially cooked. \n3. In a separate pan, sauté onions, garlic, ginger, and tomatoes. Add cream, butter, and spices. \n4. Add the partially cooked chicken to the sauce and continue cooking until the chicken is tender and fully cooked.",
+                "rating": 4.5
+            },
+            {
+                "_id": "recipe_1b",
+                "name": "Tandoori Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Spices",
+                    "Tomatoes",
+                    "Spices"
+                ],
+                "description": "A classic Indian dish made by marinating chicken in yogurt and spices, then cooking it in a tandoor oven until juicy and tender.",
+                "image": "https://img.freepik.com/free-photo/side-view-baked-chicken-with-cucumber-lemon-seasoning-bread-table_141793-4757.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate chicken in yogurt and spices. \n2. Cook marinated chicken in a tandoor oven or grill until juicy and tender.",
+                "rating": 4.0
+            },
+            {
+                "_id": "recipe_1c",
+                "name": "Palak Paneer",
+                "ingredients": [
+                    "Paneer",
+                    "Spinach",
+                    "Onion",
+                    "Tomatoes",
+                    "Spices"
+                ],
+                "description": "A popular vegetarian dish made with paneer (Indian cheese) and spinach, cooked with onions, tomatoes, and a blend of spices.",
+                "image": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.2.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Blanch spinach and purée with aromatics. \n2. Sauté onions and tomatoes, add spices, and cook until fragrant. \n3. Add paneer and spinach purée to the spice mixture, and cook until heated through. Serve hot.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "chef_2d3e4f",
+        "chef_name": "Vikas Khanna",
+        "chef_image": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?size=626&ext=jpg&ga=GA1.2.857259792.1672064733&semt=ais",
+        "experience": 10,
+        "likes": "3.5M",
+        "chef_description": "Vikas Khanna is an Indian-American Michelin-starred chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the host of the TV show MasterChef India.",
+        "recipes": [
+            {
+                "_id": "recipe_2a",
+                "name": "Dal Makhani",
+                "ingredients": [
+                    "Black Lentils",
+                    "Red Kidney Beans",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Cream"
+                ],
+                "description": "A classic Punjabi dish made with black lentils and kidney beans, cooked in a creamy tomato sauce with a blend of aromatic spices.",
+                "image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Soak lentils and beans overnight, then cook with water and spices until tender. \n2. In a separate pan, sauté onions, ginger, and garlic, add tomatoes and cook until they break down. \n3. Add the cooked lentils and beans to the tomato mixture and simmer with cream and spices until the flavors meld together. Serve hot.",
+                "rating": 4.4
+            },
+            {
+                "_id": "recipe_2b",
+                "name": "Chicken Biryani",
+                "ingredients": [
+                    "Chicken",
+                    "Basmati Rice",
+                    "Yogurt",
+                    "Spices",
+                    "Onions",
+                    "Tomatoes"
+                ],
+                "description": "A fragrant rice dish made with spiced chicken, basmati rice, and a variety of aromatic herbs and spices.",
+                "image": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate chicken in yogurt and spices. \n2. Cook basmati rice separately with spices, herbs, and fried onions. \n3. Layer the cooked chicken and rice in a large pot or baking dish, sprinkle with mint and cilantro, and bake until the flavors meld together. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "_id": "recipe_2c",
+                "name": "Tandoori Fish Tikka",
+                "ingredients": [
+                    "Fish",
+                    "Yogurt",
+                    "Spices",
+                    "Lime Juice",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "description": "A delicious appetizer made with marinated fish cooked in a tandoor oven or grill, flavored with a blend of spices, lime juice, and ginger-garlic paste.",
+                "image": "https://img.freepik.com/free-photo/lamb-kebab-skewers-garnished-with-pomegranate-herbs_140725-1977.jpg?size=626&ext=jpg&ga=GA1.2.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate fish in yogurt, spices, lime juice, and ginger-garlic paste. \n2. Cook marinated fish in a tandoor oven or grill until lightly charred and cooked through. \n3. Serve hot with mint chutney.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": "chef_9f8g7h",
+        "chef_name": "Tarla Dalal",
+        "chef_image": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?size=626&ext=jpg&ga=GA1.2.857259792.1672064733&semt=ais",
+        "experience": 7,
+        "likes": "2.5M",
+        "chef_description": "Tarla Dalal was an Indian chef, author, and television personality who wrote more than 100 cookbooks and hosted several popular cooking shows on Indian television.",
+        "recipes": [
+            {
+                "_id": "recipe_3a",
+                "name": "Palak Paneer",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Tomatoes",
+                    "Onions",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "description": "A popular North Indian dish made with spinach and cottage cheese cooked in a creamy tomato sauce with a blend of aromatic spices.",
+                "image": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.2.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Blanch spinach and purée in a blender. \n2. Sauté onions, ginger, and garlic, add tomatoes and cook until they break down. \n3. Add the spinach purée to the tomato mixture and simmer with spices and cream until the flavors meld together. Serve hot with cubes of fried paneer.",
+                "rating": 4.5
+            },
+            {
+                "_id": "recipe_3b",
+                "name": "Chole Bhature",
+                "ingredients": [
+                    "Chickpeas",
+                    "Flour",
+                    "Yogurt",
+                    "Spices",
+                    "Onions",
+                    "Tomatoes"
+                ],
+                "description": "A popular Punjabi dish made with spicy chickpeas and fried bread, typically served for breakfast or lunch.",
+                "image": "https://img.freepik.com/premium-photo/chole-bhature-chick-pea-curry-fried-puri-served-terracotta-crockery-white-background-selective-focus_466689-24951.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Soak chickpeas overnight, then cook with water and spices until tender. \n2. Sauté onions, ginger, and garlic, add tomatoes and cook until they break down. \n3. Add the cooked chickpeas to the tomato mixture and simmer with spices until the flavors meld together. Serve hot with fried bread made from a dough of flour, yogurt, and oil.",
+                "rating": 4.7
+            },
+            {
+                "_id": "recipe_3c",
+                "name": "Dhokla",
+                "ingredients": [
+                    "Chickpea Flour",
+                    "Yogurt",
+                    "Ginger",
+                    "Green Chilies",
+                    "Eno Fruit Salt",
+                    "Oil"
+                ],
+                "description": "A popular Gujarati snack made with steamed chickpea flour batter flavored with ginger and green chilies.",
+                "image": "https://img.freepik.com/free-photo/top-view-pumpkin-soup-with-little-bread-rusks-seasonings-white_140725-104322.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Mix chickpea flour, yogurt, ginger, and green chilies to make a batter. \n2. Add Eno fruit salt to the batter and stir until it becomes light and frothy. \n3. Steam the batter in a greased pan until fully cooked. Cut into pieces and serve hot with a tempering of mustard seeds, curry leaves, and green chilies.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": "chef_3d7k8f",
+        "chef_name": "Vicky Ratnani",
+        "chef_image": "https://img.freepik.com/free-photo/portrait-happy-male-cook-holding-white-dish-his-hand_23-2147863825.jpg?size=626&ext=jpg&ga=GA1.2.857259792.1672064733&semt=ais",
+        "experience": 9,
+        "likes": "1.2M",
+        "chef_description": "Vicky Ratnani is an Indian celebrity chef, restaurateur, and author. He is known for his contemporary and fusion cuisine, as well as his focus on using local and sustainable ingredients.",
+        "recipes": [
+            {
+                "_id": "recipe_9b",
+                "name": "Masala Mushroom Quinoa",
+                "ingredients": [
+                    "Quinoa",
+                    "Mushrooms",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "description": "A healthy and flavorful dish made with protein-packed quinoa, sautéed mushrooms, and a blend of Indian spices.",
+                "image": "https://img.freepik.com/free-photo/high-angle-pakistan-meal-composition_23-2148821517.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Rinse quinoa and cook according to package instructions. \n2. Heat oil in a pan and sauté onion, garlic, and ginger until translucent. \n3. Add chopped mushrooms and cook until browned. \n4. Add chopped tomatoes, green chili, curry powder, and garam masala, and cook until the tomatoes break down. \n5. Add cooked quinoa and mix well. \n6. Garnish with chopped cilantro, lime juice, and salt, to taste.",
+                "rating": 4.5
+            },
+            {
+                "_id": "recipe_3c",
+                "name": "Butter Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Butter",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "description": "A classic North Indian dish made with succulent pieces of chicken cooked in a rich and creamy tomato-based sauce.",
+                "image": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate chicken in yogurt, ginger, garlic, and spices for at least 30 minutes. \n2. Heat oil in a pan and fry the marinated chicken until browned. \n3. In another pan, heat butter and sauté onion until golden brown. \n4. Add ginger and garlic and cook for a minute. \n5. Add chopped tomatoes and cook until they break down. \n6. Add cream, kasuri methi, garam masala, and salt to taste. \n7. Add the fried chicken and simmer until cooked through. \n8. Garnish with chopped cilantro.",
+                "rating": 4.8
+            },
+            {
+                "_id": "recipe_2f",
+                "name": "Grilled Paneer Tikka",
+                "ingredients": [
+                    "Paneer",
+                    "Bell pepper",
+                    "Onion",
+                    "Yogurt",
+                    "Ginger"
+                ],
+                "description": "A vegetarian version of the popular chicken tikka, made with marinated paneer and grilled with vegetables for a delicious and healthy appetizer or snack.",
+                "image": "https://img.freepik.com/free-photo/meat-shish-kebabs-with-potherbs-table_23-2147852332.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Mix chickpea flour, yogurt, ginger, and green chilies to make a batter. \n2. Add Eno fruit salt to the batter and stir until it becomes light and frothy. \n3. Steam the batter in a greased pan until fully cooked. Cut into pieces and serve hot with a tempering of mustard seeds, curry leaves, and green chilies.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": "chef_8c2h4j",
+        "chef_name": "Pankaj Bhadouria",
+        "chef_image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+        "experience": 15,
+        "likes": "800k",
+        "chef_description": "Pankaj Bhadouria is an Indian chef and television personality. She is best known as the winner of the first season of MasterChef India, and has since gone on to host her own cooking shows and write several cookbooks.",
+        "recipes": [
+            {
+                "_id": "recipe_5a",
+                "name": "Dal Makhani",
+                "ingredients": [
+                    "Black lentils",
+                    "Kidney beans",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "description": "A rich and creamy lentil dish made with slow-cooked black lentils and kidney beans, flavored with a blend of Indian spices and finished with cream and butter.",
+                "image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Soak black lentils and kidney beans overnight. \n2. Cook them in a pressure cooker until tender. \n3. In another pan, heat butter and sauté onion, garlic, and ginger until golden brown. \n4. Add chopped tomatoes and cook until they break down. \n5. Add the cooked lentils and beans, along with garam masala, kasuri methi, and salt to taste. \n6. Simmer for 30 minutes, adding cream and more butter if desired. \n7. Garnish with cilantro and serve hot with naan or rice.",
+                "rating": 4.7
+            },
+            {
+                "_id": "recipe_6b",
+                "name": "Chicken Biryani",
+                "ingredients": [
+                    "Chicken",
+                    "Basmati rice",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Tomato"
+                ],
+                "description": "A fragrant and flavorful rice dish made with marinated chicken, aromatic spices, and a saffron-infused rice base.",
+                "image": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate chicken in yogurt, ginger, garlic, and spices for at least 30 minutes. \n2. Soak basmati rice in water for 30 minutes. \n3. In a pan, heat oil and fry sliced onion until golden brown. \n4. Add ginger, garlic, and green chili, and fry for a minute. \n5. Add chopped tomatoes and cook until they break down. \n6. Add the marinated chicken and cook until browned. \n7. Add water and bring to a boil. \n8. Drain the soaked rice and add it to the chicken mixture. \n9. Add saffron, bay leaves, cardamom, cinnamon, cloves, turmeric, and salt to taste. \n10. Cover and cook on low heat until the rice is cooked through. \n11. Serve hot with raita and papadum.",
+                "rating": 4.6
+            },
+            {
+                "_id": "recipe_6c",
+                "name": "Grilled Paneer Tikka",
+                "ingredients": [
+                    "Chicken",
+                    "Basmati rice",
+                    "Onion",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "description": "A fragrant and flavorful rice dish made with marinated chicken, aromatic spices, and a saffron-infused rice base.",
+                "image": "https://img.freepik.com/free-photo/meat-shish-kebabs-with-potherbs-table_23-2147852332.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate chicken in yogurt, ginger, garlic, and spices for at least 30 minutes. \n2. Soak basmati rice in water for 30 minutes. \n3. In a pan, heat oil and fry sliced onion until golden brown. \n4. Add ginger, garlic, and green chili, and fry for a minute. \n5. Add chopped tomatoes and cook until they break down. \n6. Add the marinated chicken and cook until browned. \n7. Add water and bring to a boil. \n8. Drain the soaked rice and add it to the chicken mixture. \n9. Add saffron, bay leaves, cardamom, cinnamon, cloves, turmeric, and salt to taste. \n10. Cover and cook on low heat until the rice is cooked through. \n11. Serve hot with raita and papadum.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "chef_4g5h6i",
+        "chef_name": "Ajay Chopra",
+        "chef_image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-holding-whisk-isolated-pink-wall_141793-101294.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+        "experience": 10,
+        "likes": "1.5M",
+        "chef_description": "Ajay Chopra is a renowned Indian chef, television personality and judge of MasterChef India. He is known for his innovative approach to traditional Indian cuisine and his use of modern techniques.",
+        "recipes": [
+            {
+                "_id": "recipe_7a",
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Spices",
+                    "Tomatoes",
+                    "Cream"
+                ],
+                "description": "A classic Indian dish made with marinated chicken cooked in a spiced tomato and cream sauce. Perfect with a side of naan bread or rice.",
+                "image": "https://img.freepik.com/free-photo/top-view-spicy-chicken-with-lettuce-lemon-pan-table_181624-61795.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Marinate chicken in yogurt and spices. \n2. Cook marinated chicken in a tandoor oven or grill until partially cooked. \n3. In a separate pan, sauté onions, garlic, ginger, and tomatoes. Add cream, butter, and spices. \n4. Add the partially cooked chicken to the sauce and continue cooking until the chicken is tender and fully cooked.",
+                "rating": 4.8
+            },
+            {
+                "_id": "recipe_7b",
+                "name": "Fish Curry",
+                "ingredients": [
+                    "Fish",
+                    "Coconut Milk",
+                    "Spices",
+                    "Tomatoes",
+                    "Onions"
+                ],
+                "description": "A flavorful fish curry made with a blend of spices and coconut milk, perfect for a warm and comforting meal.",
+                "image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Sauté onions, garlic, ginger, and tomatoes. Add spices and cook until fragrant. \n2. Add fish and coconut milk to the mixture, and simmer until the fish is cooked through. Serve hot with rice.",
+                "rating": 4.5
+            },
+            {
+                "_id": "recipe_7c",
+                "name": "Paneer Makhani",
+                "ingredients": [
+                    "Paneer",
+                    "Tomatoes",
+                    "Cream",
+                    "Spices",
+                    "Butter"
+                ],
+                "description": "A rich and creamy vegetarian dish made with paneer (Indian cheese), cooked in a tomato and cream sauce with a blend of aromatic spices.",
+                "image": "https://img.freepik.com/free-photo/meat-dish-with-vegetables_144627-18109.jpg?size=626&ext=jpg&ga=GA1.1.857259792.1672064733&semt=ais",
+                "cooking_method": "1. Sauté onions, garlic, ginger, and tomatoes. Add spices and cook until fragrant. \n2. Add paneer and cream to the mixture, and cook until heated through. Serve hot with naan bread or rice.",
+                "rating": 4.2
+            }
+        ]
+    }
+]
